@@ -1,8 +1,8 @@
 {
-  "name": "nanohtml",
+  "name": "@hugueschabot/nanohtml",
   "description": "HTML template strings for the Browser with support for Server Side Rendering in Node.",
-  "repository": "choojs/nanohtml",
-  "version": "1.6.3",
+  "repository": "git@github.com:hugueschabot/nanohtml.git",
+  "version": "1.6.3-typescript1",
   "main": "index.js",
   "files": [
     "index.js",
